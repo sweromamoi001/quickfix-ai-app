@@ -1,0 +1,15 @@
+quickfix-ai-app/
+│
+├── backend/
+│   ├── main.py
+│   ├── routes/
+│   ├── services/
+│   └── requirements.txt
+│
+├── frontend/
+│   ├── index.html
+│   ├── app.js
+│   └── style.css
+│
+├── README.md
+└── .gitignore
