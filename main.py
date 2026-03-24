@@ -7,6 +7,7 @@ class Problem(BaseModel):
     description: str
 
 @app.post("/diagnose")
+
 def diagnose(problem: Problem):
     issue = problem.description.lower()
 

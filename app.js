@@ -16,6 +16,9 @@ async function sendProblem() {
 Solution: ${data.solution.join(", ")}
 Warning: ${data.warning}`;
 } 
+ 
+
  {
   "description"; "My sink is leaking"
 }
+
